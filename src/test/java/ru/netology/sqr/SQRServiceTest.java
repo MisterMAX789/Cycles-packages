@@ -18,4 +18,4 @@ class SQRServiceTest {
         int quantity = service.sqNumber(min, max);
         assertEquals(expected, quantity);
     }
-}g
+}
